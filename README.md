@@ -140,6 +140,9 @@ Built-in generator for creating strong passwords, cryptographic keys, and secure
   cd Multi-Functional-Security-Toolkit
 ```
 
+```result
+```
+
 ## Create & Activate Virtual Environment (Recommended)
 ```bash
 python3 -m venv venv
