@@ -48,9 +48,7 @@ Main dashboard of the password management tool:
 <summary>Password Manager Image</summary>
 
 The main dashboard for securely storing, viewing, and managing encrypted passwords:
-
 ![Password Manager Screenshot](images/Password-Manager.png)
-
 </details>
 
 
