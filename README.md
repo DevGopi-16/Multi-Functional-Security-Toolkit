@@ -9,8 +9,10 @@ The application focuses on practical implementations such as
 Each module is designed to be **modular**, **readable**, and **easy to extend**.
 
 This project is intended as a **portfolio-grade** example showcasing 
+
 `Python application development`, **clean code organization**, and 
 **desktop GUI design** using `Tkinter`.
+
 
 ---
 
