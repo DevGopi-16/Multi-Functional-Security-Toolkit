@@ -15,7 +15,6 @@ This project is intended as a **portfolio-grade** example showcasing
 
 
 ---
-
 ## 📌 Overview
 
 **Secure Toolkit** is a multi-module Python application that allows users to:
